@@ -1,0 +1,9 @@
+# Ignore data and outputs
+data/
+outputs/
+*.zip
+
+# Ignore Kaggle credentials if copied here
+.kaggle/
+kaggle.json
+
